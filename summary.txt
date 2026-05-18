@@ -1,1 +1,1 @@
-Summary: resolved versionBAD LINE
+Summary: resolved version
