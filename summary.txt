@@ -1,1 +1,1 @@
-Summary: branch version
+Summary: resolved version
