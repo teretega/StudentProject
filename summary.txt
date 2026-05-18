@@ -1,1 +1,1 @@
-Summary: version A
+Summary: version B
